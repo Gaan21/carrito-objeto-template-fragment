@@ -1,5 +1,7 @@
 # Ejemplo carrito de compras con objeto y template
 
+## Practica de Js y html
+
 ## Template
 
 ```html
