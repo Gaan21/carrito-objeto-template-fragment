@@ -48,7 +48,7 @@ const mostrarCarrito = (producto) => {
     //EVITAR REFLOW
     fragment.appendChild(clone)
     carrito.appendChild(fragment)
-    })
+    });
 }
 
 
